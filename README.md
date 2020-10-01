@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡️ For the real deal 👉 [joaopescada.com](https://joaopescada.com)
+⚡️ For the real deal 👉 [joaopescada.com](https://joaopescada.com)  
 ⚽️ For boring stuff, just keep scrolling 👇
 
 <!--
