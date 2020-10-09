@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-⚡️  For the real deal 👉 [joaopescada.com](https://joaopescada.com)  
-⚽️  For boring stuff, just keep scrolling 👇
+⚡️&nbsp; For the real deal 👉 [joaopescada.com](https://joaopescada.com)  
+⚽️&nbsp; For boring stuff, just keep scrolling 👇
 
 <!--
 **jpescada/jpescada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
